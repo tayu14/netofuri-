@@ -1,3 +1,5 @@
+<!-- er図のurl -->
+<!-- https://lucid.app/lucidchart/1bb7a81c-4307-4f3f-bdd8-7b89eaece070/edit?beaconFlowId=BDB22C79C2CCB501&page=0_0#?folder_id=home&browser=icon -->
 # テーブル設計
 
 ## users テーブル
