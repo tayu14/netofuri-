@@ -1,5 +1,15 @@
 <!-- er図のurl -->
 <!-- https://lucid.app/lucidchart/1bb7a81c-4307-4f3f-bdd8-7b89eaece070/edit?beaconFlowId=BDB22C79C2CCB501&page=0_0#?folder_id=home&browser=icon -->
+
+# アプリの概要
+
+ネットフリックスではレビュー機能がないのでレビューで作品を探す人のためにアプリを作った
+
+#　デプロイurl
+
+https://netofuri.herokuapp.com/
+
+
 # テーブル設計
 
 ## users テーブル
